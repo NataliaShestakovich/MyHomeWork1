@@ -1,0 +1,15 @@
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\bin\Debug\net6.0\MyHomeWork1.exe
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\bin\Debug\net6.0\MyHomeWork1.deps.json
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\bin\Debug\net6.0\MyHomeWork1.runtimeconfig.json
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\bin\Debug\net6.0\MyHomeWork1.dll
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\bin\Debug\net6.0\MyHomeWork1.pdb
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\obj\Debug\net6.0\MyHomeWork1.csproj.AssemblyReference.cache
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\obj\Debug\net6.0\MyHomeWork1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\obj\Debug\net6.0\MyHomeWork1.AssemblyInfoInputs.cache
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\obj\Debug\net6.0\MyHomeWork1.AssemblyInfo.cs
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\obj\Debug\net6.0\MyHomeWork1.csproj.CoreCompileInputs.cache
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\obj\Debug\net6.0\MyHomeWork1.dll
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\obj\Debug\net6.0\refint\MyHomeWork1.dll
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\obj\Debug\net6.0\MyHomeWork1.pdb
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\obj\Debug\net6.0\MyHomeWork1.genruntimeconfig.cache
+D:\IT academy\Промышленная разработка на C#\Черновики кода\MyHomeWork1\MyHomeWork1\obj\Debug\net6.0\ref\MyHomeWork1.dll
