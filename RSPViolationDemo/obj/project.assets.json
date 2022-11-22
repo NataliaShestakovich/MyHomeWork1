@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IT academy\\Промышленная разработка на C#\\Черновики кода\\MyHomeWork1\\RSPViolationDemo\\RSPViolationDemo.csproj",
+      "projectUniqueName": "D:\\IT academy\\Промышленная разработка на C#\\Черновики кода\\1 ДЗ\\MyHomeWork1\\RSPViolationDemo\\RSPViolationDemo.csproj",
       "projectName": "RSPViolationDemo",
-      "projectPath": "D:\\IT academy\\Промышленная разработка на C#\\Черновики кода\\MyHomeWork1\\RSPViolationDemo\\RSPViolationDemo.csproj",
+      "projectPath": "D:\\IT academy\\Промышленная разработка на C#\\Черновики кода\\1 ДЗ\\MyHomeWork1\\RSPViolationDemo\\RSPViolationDemo.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\IT academy\\Промышленная разработка на C#\\Черновики кода\\MyHomeWork1\\RSPViolationDemo\\obj\\",
+      "outputPath": "D:\\IT academy\\Промышленная разработка на C#\\Черновики кода\\1 ДЗ\\MyHomeWork1\\RSPViolationDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

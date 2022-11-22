@@ -82,7 +82,7 @@
                     }
                     catch (OverflowException)
                     {
-                        Console.WriteLine("The result obtained is out of bounds of type int.");
+                        Console.WriteLine("");
 
                         break;
                     }

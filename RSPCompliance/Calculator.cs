@@ -4,10 +4,11 @@ namespace RSPCompliance
 {
     public static class Calculator
     {
-        public static void Exponentiate()
+        public static double[] GetExponentiation()
         {
             var random = new Random();
 
+            
             double number = (double)random.Next(0, 1000);
 
             double powerOfNumber = (double)random.Next(-10, 100);
@@ -16,45 +17,38 @@ namespace RSPCompliance
 
             if (double.IsInfinity(result))
             {
-                Console.WriteLine($"{Environment.NewLine}The result obtained is out of bounds of type double.");
+                throw new OverflowException();
             }
-            else
-            {
-                double[] numbers = { number, powerOfNumber };
+           
+            double[] finalData = { result, number, powerOfNumber };
 
-                ResultPrinter.PrintResult(OperationNames.exponentiation, result, numbers);
-            }
+            return finalData;
         }
 
-        public static void GetTheFactorial()
+        public static int [] GetFactorial()
         {
             var random = new Random();
 
-            int number = random.Next(0, 100);
+            int number = random.Next(0, 20);
 
             int result = 1;
 
             if (number < 0)
             {
-                Console.WriteLine($"{Environment.NewLine}In mathematics, the factorial of a non-negative integer.");
+                throw new ArgumentException();
             }
+            
             if (number != 0)
             {
                 for (int i = 1; i <= number; i++)
                 {
-                    try
-                    {
-                        result = checked(result * i);
-                    }
-                    catch (OverflowException)
-                    {
-                        Console.WriteLine("The result obtained is out of bounds of type int.");
-
-                        break;
-                    }
+                    result = checked(result * i);                    
                 }
-                ResultPrinter.PrintResult(OperationNames.factorial, result, number);
             }
+
+            int[] finalData = {result, number};
+
+            return finalData;
         }
     }
 }

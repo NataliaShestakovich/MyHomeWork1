@@ -24,11 +24,41 @@
                 switch (choice)
                 {
                     case ConsoleKey.D1:
-                        Calculator.GetTheFactorial();
+
+                        try
+                        {
+                            var finalData = Calculator.GetFactorial();
+
+                            PrinterService.PrintResult(finalData);
+                        }
+                        catch (ArgumentException)
+                        {
+
+                            Console.WriteLine("In mathematics, the factorial of a non-negative integer.");
+                        }
+                        catch (OverflowException)
+                        {
+
+                            Console.WriteLine("The result obtained is out of bounds of type.");
+                        }
+                        
                         break;
+
                     case ConsoleKey.D6:
-                        Calculator.Exponentiate();
+                        try
+                        {
+                            var finalData = Calculator.GetExponentiation();
+
+                            PrinterService.PrintResult(finalData);
+                        }
+                        catch (OverflowException)
+                        {
+
+                            Console.WriteLine("The result obtained is out of bounds of type.");
+                        }
+                        
                         break;
+
                     default:
                         Console.WriteLine($"Input Error. Please make the right choice.{Environment.NewLine}");
                         break;
